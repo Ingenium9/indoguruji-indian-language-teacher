@@ -53,30 +53,33 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDLrVYXAyFKTt75Keq5cL4wA-BCUk0VSbU',
-    appId: '1:869421884116:android:05b1f53dda8740d7c65141',
-    messagingSenderId: '869421884116',
-    projectId: 'indian-language-teacher',
-    storageBucket: 'indian-language-teacher.appspot.com',
+      // fill your own project details
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCNn2VmvuP_WYPL8y-QboFObBuC6dye6nY',
-    appId: '1:869421884116:ios:076e9c3c64ef0f26c65141',
-    messagingSenderId: '869421884116',
-    projectId: 'indian-language-teacher',
-    storageBucket: 'indian-language-teacher.appspot.com',
-    iosClientId: '869421884116-vp31da3lhknm2l49ds1da836espvlclo.apps.googleusercontent.com',
-    iosBundleId: 'com.example.indianLanguageTeacher',
+      // fill your own project details
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosClientId: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCNn2VmvuP_WYPL8y-QboFObBuC6dye6nY',
-    appId: '1:869421884116:ios:076e9c3c64ef0f26c65141',
-    messagingSenderId: '869421884116',
-    projectId: 'indian-language-teacher',
-    storageBucket: 'indian-language-teacher.appspot.com',
-    iosClientId: '869421884116-vp31da3lhknm2l49ds1da836espvlclo.apps.googleusercontent.com',
-    iosBundleId: 'com.example.indianLanguageTeacher',
+      // fill your own project details
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosClientId: '',
+    iosBundleId: '',
   );
 }
