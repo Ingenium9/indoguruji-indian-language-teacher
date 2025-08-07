@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>869421884116-vp31da3lhknm2l49ds1da836espvlclo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.869421884116-vp31da3lhknm2l49ds1da836espvlclo</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCNn2VmvuP_WYPL8y-QboFObBuC6dye6nY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>869421884116</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.indianLanguageTeacher</string>
+	<key>PROJECT_ID</key>
+	<string>indian-language-teacher</string>
+	<key>STORAGE_BUCKET</key>
+	<string>indian-language-teacher.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:869421884116:ios:076e9c3c64ef0f26c65141</string>
+</dict>
+</plist>

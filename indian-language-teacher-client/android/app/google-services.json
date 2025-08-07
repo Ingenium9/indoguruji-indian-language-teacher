@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "869421884116",
+    "project_id": "indian-language-teacher",
+    "storage_bucket": "indian-language-teacher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869421884116:android:05b1f53dda8740d7c65141",
+        "android_client_info": {
+          "package_name": "com.example.indian_language_teacher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869421884116-efgedb7a735kbclnrng5mqu9ht93hsic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.indian_language_teacher",
+            "certificate_hash": "884d425b9f0f9a47665cfb474904f7a76d2816c4"
+          }
+        },
+        {
+          "client_id": "869421884116-s4m8ct2e0qq30gova2lnrr3h6a6fense.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.indian_language_teacher",
+            "certificate_hash": "6b6614549e7cd2ff588a9e9498e1564de64e2432"
+          }
+        },
+        {
+          "client_id": "869421884116-nn7kr87bq823e258hlsk548bvctgq8uq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLrVYXAyFKTt75Keq5cL4wA-BCUk0VSbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869421884116-nn7kr87bq823e258hlsk548bvctgq8uq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "869421884116-vp31da3lhknm2l49ds1da836espvlclo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.indianLanguageTeacher"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
